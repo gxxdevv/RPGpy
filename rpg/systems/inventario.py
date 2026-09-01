@@ -1,0 +1,1 @@
+mochila = ["poção de cura"]
