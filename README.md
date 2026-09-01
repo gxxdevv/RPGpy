@@ -19,7 +19,7 @@ conceitos de Python, como:
   O projeto também será utilizado
   para estudar e implementar
   **Programação Orientada a
-  Objetos (POO)**futuramente.
+  Objetos (POO)** futuramente.
 
 ## Tecnologias
   
